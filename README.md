@@ -2,7 +2,9 @@
 Portfolio of data science projects for academic, self learning, and hobby purposes
 
 ## Content 
-- A
+- Bootcamp Project
+    - Digitalent Talent Scholarship - Data Science [DS4-16 Final Presentation](https://github.com/tibriwork/data-science-portfolio/blob/main/DS4-16_Muhammad%20Tibri%20Syofyan_Final%20Presentation.pdf) : Using BiqQuery (SQL) and Python to visualization (dashboard) and analysis case study COVID-19 in Indonesia and Customer's Churn Prediction (Problem Statement, Exploratory Data Analysis (EDA), Data Preprocessing, Classification Analysis)
+      Tools : BiqQuery, Looker Studio, Python 
 - Academic Project
     - [Design of experiments : Split-Plot Design in a Completely Randomized Design (CRD) Mixed Model](https://github.com/tibriwork/data-science-portfolio/blob/main/Rancangan%20Petak%20Terpisah%20dalam%20RAL%20Model%20Campuran.pdf) : Understand the characteristics, assumptions, hypothesis testing, and application of the split-plot design within a Completely Randomized Design (CRD) mixed model.
     - [Analysis of Categoric Data : Binary Logistic Regression Model to Determine the Decision of Statistics Students at Universitas Negeri Padang in Choosing Fuel Oil (BBM)](https://github.com/tibriwork/data-science-portfolio/blob/main/Model%20Regresi%20Logistik%20Biner%20Untuk%20Menentukan%20Keputusan%20Mahasiswa%20Statistika%20Universitas%20Negeri%20Padang%20dalam%20Memilih%20Bahan%20Bakar%20Minyak%20(BBM).pdf) : A model to identify the factors influencing Statistics students' decisions at Universitas Negeri Padang in selecting types of fuel oil (BBM) using a binary logistic regression model
