@@ -3,9 +3,11 @@ Portfolio of data science projects for academic, self learning, and hobby purpos
 
 ## Content 
 - Bootcamp Project
-    - Digitalent Talent Scholarship - Data Science [DS4-16 Final Presentation](https://github.com/tibriwork/data-science-portfolio/blob/main/DS4-16_Muhammad%20Tibri%20Syofyan_Final%20Presentation.pdf) : Using BiqQuery (SQL) and Python to visualization (dashboard) and analysis case study COVID-19 in Indonesia and Customer's Churn Prediction (Problem Statement, Exploratory Data Analysis (EDA), Data Preprocessing, Classification Analysis)
+    - Digitalent Talent Scholarship - Data Science [DS4-16 Final Presentation](https://github.com/tibriwork/data-science-portfolio/blob/main/DS4-16_Muhammad%20Tibri%20Syofyan_Final%20Presentation.pdf) : Using BiqQuery (SQL) and Python to visualization (dashboard) and analysis case study COVID-19 in Indonesia and Customer's Churn Prediction (Problem Statement, Exploratory Data Analysis (EDA), Data Preprocessing, Classification Analysis).
+      
       Tools : BiqQuery, Looker Studio, Python
-    - Data Analyst Camp Batch 4 [Internship Participant Data](https://github.com/tibriwork/data-science-portfolio/blob/main/Data_Analyst_Camp_Batch_4.ipynb) : Understanding the Structure and Quality of Internship Participant Data
+    - Data Analyst Camp Batch 4 [Internship Participant Data](https://github.com/tibriwork/data-science-portfolio/blob/main/Data_Analyst_Camp_Batch_4.ipynb) : Understanding the Structure and Quality of Internship Participant Data.
+    
       Tools : Excel, Python, R
 - Academic Project
     - [Design of experiments : Split-Plot Design in a Completely Randomized Design (CRD) Mixed Model](https://github.com/tibriwork/data-science-portfolio/blob/main/Rancangan%20Petak%20Terpisah%20dalam%20RAL%20Model%20Campuran.pdf) : Understand the characteristics, assumptions, hypothesis testing, and application of the split-plot design within a Completely Randomized Design (CRD) mixed model.
